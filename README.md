@@ -34,13 +34,13 @@ The interactive dashboard can be downloaded [here](https://github.com/Aisha-Badm
 
 ### Key Insights
 **1. Frequent Travelers & Overtime:** Employees who work overtime have the highest attrition rate (30.5%) while those who travel frequently have a 24.9% attrition rate, likely due to burnout or job dissatisfaction. Employees with no travel and no overtime have the lowest attrition at 8% and 10.4% respectively.  
-                                                            ![travelovertime](https://github.com/Aisha-Badmus/Employee_Attrition_Analysis/blob/main/travelovertime.png)  
 **2. Tenure Impacts Attrition:** The highest attrition occurs within the first two years of employment, suggesting challenges in onboarding and retention. Attrition significantly decreases after five years.  
 **3. Sales Department Attrition:** Sales experiences the highest turnover (20.6%) with sales representatives attrition at (39.8%), possibly due to job performance pressures, commission-based pay structures, or lack of career growth.  
-                                                            ![salesattrition](https://github.com/Aisha-Badmus/Employee_Attrition_Analysis/blob/main/Sales%20Attrition1.png)  
 **4. Diversity Retention:**  Higher Attrition Among Minority Groups, American Indian/Alaska Native employees have the highest attrition rate at 30% (Female) and 40% (Non-Binary), indicating potential diversity and inclusion challenges.  
 **5. Impact of Performance Ratings and Job Satisfaction:** Employees with consistently low manager ratings and self-ratings tend to leave the company at higher rates. Those with improving ratings exhibit stronger retention.
 
+ ![travelovertime](https://github.com/Aisha-Badmus/Employee_Attrition_Analysis/blob/main/travelovertime.png)  ![salesattrition](https://github.com/Aisha-Badmus/Employee_Attrition_Analysis/blob/main/Sales%20Attrition1.png)
+ 
 ## Recommendations
 **1. Improve Work-Life Balance:** Offer flexible travel policies, remote work options, and better incentives to improve job satisfaction among traveling and overtime employees.\
 **2. Implement a Retention Program for New Hires:** Focus on better incentives, mentorship, career development programs, and structured onboarding to reduce high turnover within the first two years.\
