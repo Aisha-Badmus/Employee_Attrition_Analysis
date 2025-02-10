@@ -39,7 +39,7 @@ The interactive dashboard can be downloaded [here](https://github.com/Aisha-Badm
 **4. Diversity Retention:**  Higher Attrition Among Minority Groups, American Indian/Alaska Native employees have the highest attrition rate at 30% (Female) and 40% (Non-Binary), indicating potential diversity and inclusion challenges.  
 **5. Impact of Performance Ratings and Job Satisfaction:** Employees with consistently low manager ratings and self-ratings tend to leave the company at higher rates. Those with improving ratings exhibit stronger retention.
 
-<img align="center"> ![travelovertime](https://github.com/Aisha-Badmus/Employee_Attrition_Analysis/blob/main/travelovertime.png)  
+<img align="center" ![travelovertime](https://github.com/Aisha-Badmus/Employee_Attrition_Analysis/blob/main/travelovertime.png)>
  
 <img align="center"> ![salesattrition](https://github.com/Aisha-Badmus/Employee_Attrition_Analysis/blob/main/Sales%20Attrition1.png)
  
