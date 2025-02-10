@@ -27,17 +27,17 @@ Minimal data cleaning was required but I ensured data quality by handling missin
 ### Overview of Insights	
 Atlas Lab had hired a total of 1470 employees from 2012 to 2022, with a near split between male and female employees and the highest number of hires (833) in the Technology department. A total of 237 employees have left the company within this period with an attrition rate of 16.1%, with highest attrition rate at 22.1% in 2020 which is broadly attributed to the pandemic period. Significant variations in attrition have been recorded based on, ethnicity, tenure, department, overtime, and travel frequency.
 
-Below is the overview page from the Power BI report and more examples are included throughout the report. 
-![overview](https://github.com/Aisha-Badmus/Employee_Attrition_Analysis/blob/main/Overview.png)
+Below is the overview page from the Power BI report and more examples are included throughout the report.  
+![overview](https://github.com/Aisha-Badmus/Employee_Attrition_Analysis/blob/main/Overview1.png)
 The interactive dashboard can be downloaded [here](https://github.com/Aisha-Badmus/Employee_Attrition_Analysis/blob/main/HR%20Analytics%20Solution.pbix)
 
 
 ### Key Insights
 **1. Frequent Travelers & Overtime:** Employees who work overtime have the highest attrition rate (30.5%) while those who travel frequently have a 24.9% attrition rate, likely due to burnout or job dissatisfaction. Employees with no travel and no overtime have the lowest attrition at 8% and 10.4% respectively.  
-![travelovertime](https://github.com/Aisha-Badmus/Employee_Attrition_Analysis/blob/main/travelovertime.png)
+                                                            ![travelovertime](https://github.com/Aisha-Badmus/Employee_Attrition_Analysis/blob/main/travelovertime.png)  
 **2. Tenure Impacts Attrition:** The highest attrition occurs within the first two years of employment, suggesting challenges in onboarding and retention. Attrition significantly decreases after five years.  
 **3. Sales Department Attrition:** Sales experiences the highest turnover (20.6%) with sales representatives attrition at (39.8%), possibly due to job performance pressures, commission-based pay structures, or lack of career growth.  
-![salesattrition](https://github.com/Aisha-Badmus/Employee_Attrition_Analysis/blob/main/Sales%20Attrition.png)
+                                                            ![salesattrition](https://github.com/Aisha-Badmus/Employee_Attrition_Analysis/blob/main/Sales%20Attrition1.png)  
 **4. Diversity Retention:**  Higher Attrition Among Minority Groups, American Indian/Alaska Native employees have the highest attrition rate at 30% (Female) and 40% (Non-Binary), indicating potential diversity and inclusion challenges.  
 **5. Impact of Performance Ratings and Job Satisfaction:** Employees with consistently low manager ratings and self-ratings tend to leave the company at higher rates. Those with improving ratings exhibit stronger retention.
 
